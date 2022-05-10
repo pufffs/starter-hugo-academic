@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - #course: PhD in Statistics
-      #institution: London School of Economics and Political Science
-      #year: 2026
+    - course: PhD in Statistics
+      institution: London School of Economics and Political Science
+      year: 2026
     - course: MSc in Data Science
       institution: London School of Economics and Political Science
       year: 2022
